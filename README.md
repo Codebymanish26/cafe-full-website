@@ -1,14 +1,10 @@
-﻿# 🌐 Cafe Full Website
+# 🚀 cafe-full-website
 
-Complete multi-section cafe and restaurant website with menu and gallery.
+Project by **spghimire** | Official Website: [spghimire.com.np](https://spghimire.com.np)
 
-## 🚀 Live Demo
-👉 **[Open Website Live](https://codebymanish26.github.io/cafe-full-website/)**
-
-## 🛠️ Built With
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+## 🌐 Official Links
+* 🔗 **Personal Website:** [https://spghimire.com.np](https://spghimire.com.np)
+* 💻 **Developer:** spghimire
 
 ---
-*Created by [CodeByManish](https://github.com/Codebymanish26)*
+*Curated & developed by [spghimire](https://spghimire.com.np)*
